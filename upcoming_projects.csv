@@ -1,0 +1,7 @@
+project_id,project_name,project_budget,project_start_date,project_end_date,department_id,project_lead
+201,Website Overhaul,60000,15-01-2025,30-06-2025,5,Alice Green
+202,Social Media Strategy,45000,20-02-2025,10-09-2025,2,Bob White
+203,Product Launch,80000,30-03-2025,31-12-2025,3,Carol Black
+210,New Marketing Campaign,60000,10-09-2025,10-12-2025,4,Diana Silver
+206,Mobile App Development,70000,10-06-2025,15-08-2025,1,Eva Brown
+207,SEO Optimization,50000,01-08-2025,01-11-2025,2,Frank Gray
