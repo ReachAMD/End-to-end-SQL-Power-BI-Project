@@ -1,5 +1,5 @@
-# End-to-end-SQL-Power-BI-Project
-# 📊 Budget & Performance Analysis Dashboard (SQL + Power BI)
+# End-to-end-SQL-Power-BI-Project (SQL + Power BI)
+# 📊 Budget & Performance Analysis Dashboard
 
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=flat-square)
 ![SQL](https://img.shields.io/badge/Database-SQL-blue?style=flat-square)
